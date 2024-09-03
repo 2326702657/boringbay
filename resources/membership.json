@@ -327,5 +327,12 @@
 		"name": "LCX",
 		"description": "这是一个博客，同时也是一个知识库。",
 		"github_username": "longchunxin"
+		},
+	"61": {
+	        "domain": "7zdh.com",
+		"icon": "http://7zdh.com/wp-content/uploads/2024/07/logo-1.png",
+		"name": "7Z",
+		"description": "一个属于你的专属启始页",
+		"github_username": "2326702657"
 	}
 }
